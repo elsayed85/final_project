@@ -95,16 +95,24 @@
 
 		- login
 		- activation
+
+		  every car driver must be activated by us.
+
 		- reset password
 
 	- profile
 	- reports
+
+	  about car problemsor clients
 
 ### chatbot
 
 - commands
 
 	- run songs randomly
+
+	  using spotify
+
 	- show random quotes
 	- nearst
 
@@ -120,9 +128,12 @@
 
 	- ask for rate and review
 
-	  مسوي رضا العميل عن الرحله
+	  The level of customer satisfaction with the trip
 
 	- Ask for General mood
+
+	  ASK CLIENT EVERY DAY ABOUT HIS MOOD . THEN WE HAVE DADASET OF OUR CLIENT MOOED. WE CAN USE IT TO DO ANYTHING LATER.
+
 	- etc
 
 ### Web Services
@@ -202,10 +213,3 @@ all system data of client and driver
 
 ### Car Owners
 
-## Required
-
-## primary
-
-## optional
-
-*XMind - Trial Version*
